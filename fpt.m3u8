@@ -17,3 +17,9 @@ http://203.162.123.188:1935/live/antv.stream/playlist.m3u8
 http://203.162.123.188:1935/live/htv2.stream/playlist.m3u8
 #EXTINF:9 group-title="VTV",HTV3
 http://203.162.123.188:1935/live/htv3.stream/playlist.m3u8
+#EXTINF:10 group-title="VTV",DISCOVERY
+http://203.162.123.188:1935/live/discovery.stream/playlist.m3u8
+#EXTINF:9 group-title="VTV",animal_planet
+http://203.162.123.188:1935/live/animal_planet.stream/playlist.m3u8
+
+
