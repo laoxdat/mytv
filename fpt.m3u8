@@ -1,6 +1,4 @@
-
 #EXTM3U
-
 #EXTINF:1 group-title="VTV",VTV1
 http://203.162.123.188:1935/live/vtv1.stream/playlist.m3u8
 #EXTINF:2 group-title="VTV",VTV3
