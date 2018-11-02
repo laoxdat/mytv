@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:1 group-title="VTV",VTV1
+http://203.162.123.188:1935/live/vtv1.stream/playlist.m3u8
+#EXTINF:2 group-title="VTV",VTV3
+http://203.162.123.188:1935/live/vtv3.stream/playlist.m3u8
+#EXTINF:3 group-title="VTV",VTV6
+http://203.162.123.188:1935/live/vtv6.stream/playlist.m3u8
+#EXTINF:4 group-title="VTV",HBO
+http://203.162.123.188:1935/live/hbo.stream/playlist.m3u8
+#EXTINF:5 group-title="VTV",FOXMOVIES
+http://203.162.123.188:1935/live/foxmovies.stream/playlist.m3u8
+#EXTINF:6 group-title="VTV",VTC7
+http://203.162.123.188:1935/live/vtc7.stream/playlist.m3u8
+#EXTINF:7 group-title="VTV",antv
+http://203.162.123.188:1935/live/antv.stream/playlist.m3u8
+#EXTINF:8 group-title="VTV",HTV2
+http://203.162.123.188:1935/live/htv2.stream/playlist.m3u8
+#EXTINF:9 group-title="VTV",HTV3
+http://203.162.123.188:1935/live/htv3.stream/playlist.m3u8
