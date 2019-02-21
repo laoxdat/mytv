@@ -1,46 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_148005282771.jpg",VTV1 HD
 udp://@225.1.2.248:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_148005282771.jpg",VTV1 HD
-udp://@225.1.2.249:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png",VTV2 HD
 udp://@225.1.2.14:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png",VTV2 HD
-udp://@225.1.2.13:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png",VTV3 HD
 udp://@225.1.2.246:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png",VTV3 HD
-udp://@225.1.2.247:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png",VTV4 HD
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png",VTV4 HD
-udp://@225.1.2.20:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",VTV5 HD
 udp://@225.1.1.129:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",VTV5 HD
-udp://@225.1.1.131:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
 udp://@225.1.2.244:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
-udp://@225.1.2.245:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
 udp://@225.1.2.96:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
-udp://@225.1.2.97:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
 udp://@225.1.2.142:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
-udp://@225.1.2.166:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9 HD
 udp://@225.1.1.126:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9 HD
-udp://@225.1.1.128:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vovtv_145673316221.jpg",VOV
 udp://@225.1.2.171:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
 udp://@225.1.1.167:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam HD
-udp://@225.1.1.43:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/jqr1Ilv.png",VietNamNet
 udp://@225.1.1.194:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png",An Ninh TV HD
@@ -49,12 +39,10 @@ udp://@225.1.2.169:30120
 udp://@225.1.1.91:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/07/13/716000-quoc.hoi_.png",Quốc Hội HD
 udp://@225.1.2.148:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/07/13/716000-quoc.hoi_.png",Quốc Hội HD
-udp://@225.1.2.149:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://www.qpvn.vn/uploads/site/199067b5185501cc8e67c365dfd7436292da4e21.png",Quốc Phòng Việt Nam HD
 udp://@225.1.2.216:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="http://www.qpvn.vn/uploads/site/199067b5185501cc8e67c365dfd7436292da4e21.png",Quốc Phòng Việt Nam HD
-udp://@225.1.2.217:30120
+
 #EXTINF:-1 group-title="VTV" tvg-logo="http://tv.101vn.com/images/vitv.png",VITV
 udp://@225.1.2.143:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg",VTVCab13 - VTV Hyundai Homeshopping
@@ -72,8 +60,7 @@ udp://@225.1.1.206:30120
 
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/823770-htv2.png",HTV2
-udp://@225.1.1.179:30120
+
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 HD
 udp://@225.1.1.193:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",HTV3
@@ -82,12 +69,10 @@ udp://@225.1.1.178:30120
 udp://@225.1.1.177:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png",HTV7 HD
 udp://@225.1.1.191:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png",HTV7 HD
-udp://@225.1.1.192:30120
+
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/959098-371295-logo-HTV9-HD---tms.png",HTV9 HD
 udp://@225.1.1.189:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/959098-371295-logo-HTV9-HD---tms.png",HTV9 HD
-udp://@225.1.1.190:30120
+
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/238258-htvtt.png",HTV Thể Thao
 udp://@225.1.1.165:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Du Lịch và Cuộc Sống
@@ -324,20 +309,16 @@ udp://@225.1.2.238:30120
 udp://@225.1.2.239:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.232:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
-udp://@225.1.2.233:30120
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
-udp://@225.1.2.144:30120
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
-udp://@225.1.2.91:30120
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
 udp://@225.1.1.89:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
-udp://@225.1.1.93:30120
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner TV HD
 udp://@225.1.1.139:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner TV HD
