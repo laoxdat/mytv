@@ -90,6 +90,22 @@ udp://@225.1.2.238:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.232:30120
 
+#EXTINF:0 tvg-name="CHI", CHI
+http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD", VTVCab 3 - The Thao TV HD
+http://tv.ttvmax.com:9090/thethao/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV", VTVcab 16 - Bóng đá TV
+http://tv.ttvmax.com:9090/bongda/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="SCTV17", SCTV17
+http://tv.ttvmax.com:9090/sctv17/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVCab 1 - Giai Tri", VTVCab 1 - Giai Tri
+http://tv.ttvmax.com:9090/vtvcab1/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVCab 2 - Phim Viet", VTVCab 2 - Phim Viet
+http://tv.ttvmax.com:9090/vtvcab2/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVCab 5 - E Channel", VTVCab 5 - E Channel
+http://tv.ttvmax.com:9090/vtvcab5/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="VTVCab 7 - D Drama", VTVCab 7 - D Drama
+http://tv.ttvmax.com:9090/vtvcab7/video.m3u8?token=datviet
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
 
