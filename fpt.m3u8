@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_148005282771.jpg",VTV1 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="http://datviettv.vn/administrator/Upload/images/ec92c224-0ca7-43d0-ad5b-8bc65584f370.png",VTV1 HD
 udp://@225.1.2.248:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png",VTV2 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="http://datviettv.vn/administrator/Upload/images/8798ec43-8b9e-4fc4-bb32-fbc713c5bd5c.png",VTV2 HD
 udp://@225.1.2.14:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png",VTV3 HD
@@ -92,19 +92,19 @@ udp://@225.1.2.232:30120
 
 #EXTINF:0 tvg-name="CHI", CHI
 http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD", VTVCab 3 - The Thao TV HD
+#EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="http://datviettv.vn/administrator/Upload/images/4af9d92b-7694-49e9-83f9-fc4fb5953720.png", VTVCab 3 - The Thao TV HD
 http://tv.ttvmax.com:9090/thethao/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV", VTVcab 16 - Bóng đá TV
+#EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV" tvg-logo="http://datviettv.vn/administrator/Upload/images/2955aa9b-453e-4140-8dc2-eddc9a5615e6.png", VTVcab 16 - Bóng đá TV
 http://tv.ttvmax.com:9090/bongda/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="SCTV17", SCTV17
+#EXTINF:0 tvg-name="SCTV17" tvg-logo="http://datviettv.vn/administrator/Upload/images/7fe708ac-6f9b-494f-9d2a-d914c403e530.png", SCTV17
 http://tv.ttvmax.com:9090/sctv17/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVCab 1 - Giai Tri", VTVCab 1 - Giai Tri
+#EXTINF:0 tvg-name="VTVCab 1 - Giai Tri" tvg-logo="http://datviettv.vn/administrator/Upload/images/7ba3c3eb-6e22-4f2a-8cc9-aba952e89651.jpg", VTVCab 1 - Giai Tri
 http://tv.ttvmax.com:9090/vtvcab1/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVCab 2 - Phim Viet", VTVCab 2 - Phim Viet
+#EXTINF:0 tvg-name="VTVCab 2 - Phim Viet" tvg-logo="http://datviettv.vn/administrator/Upload/images/85febcfb-f50d-46a1-878c-2dc0d727d1b8.jpg", VTVCab 2 - Phim Viet
 http://tv.ttvmax.com:9090/vtvcab2/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVCab 5 - E Channel", VTVCab 5 - E Channel
+#EXTINF:0 tvg-name="VTVCab 5 - E Channel" tvg-logo="http://datviettv.vn/administrator/Upload/images/7a6a45ba-8120-442c-aa26-dd774be03a8a.jpg", VTVCab 5 - E Channel
 http://tv.ttvmax.com:9090/vtvcab5/video.m3u8?token=datviet
-#EXTINF:0 tvg-name="VTVCab 7 - D Drama", VTVCab 7 - D Drama
+#EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
 http://tv.ttvmax.com:9090/vtvcab7/video.m3u8?token=datviet
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
