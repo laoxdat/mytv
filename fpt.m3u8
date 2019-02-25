@@ -90,7 +90,7 @@ http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
 udp://@225.1.1.167:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png",Nhân Dân HD
 udp://@225.1.1.91:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies
 udp://@225.1.2.238:30120
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
