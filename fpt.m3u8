@@ -26,22 +26,17 @@ udp://@225.1.2.142:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9 HD
 udp://@225.1.1.126:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
-udp://@225.1.1.167:30120
 
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png",An Ninh TV HD
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png",Nhân Dân HD
-udp://@225.1.1.91:30120
+
 
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Hà Nội 1 HD
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg",Hà Nội 2 HD
 udp://@225.1.1.125:30120
 
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/KaVSxXc.png",MOV HD - Hanoicab4
-udp://@225.1.1.206:30120
 
 
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 HD
@@ -75,23 +70,6 @@ udp://@225.1.1.155:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_145673002208.jpg",Vĩnh Long 2 HD
 udp://@225.1.1.154:30120
 
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
-udp://@225.1.2.224:30120
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
-udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
-udp://@225.1.1.51:30120
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
-udp://@225.1.2.238:30120
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
-udp://@225.1.2.232:30120
-
-#EXTINF:0 tvg-name="CHI", CHI
-http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
 #EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="http://datviettv.vn/administrator/Upload/images/4af9d92b-7694-49e9-83f9-fc4fb5953720.png", VTVCab 3 - The Thao TV HD
 http://tv.ttvmax.com:9090/thethao/video.m3u8?token=datviet
 #EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV" tvg-logo="http://datviettv.vn/administrator/Upload/images/2955aa9b-453e-4140-8dc2-eddc9a5615e6.png", VTVcab 16 - Bóng đá TV
@@ -106,6 +84,30 @@ http://tv.ttvmax.com:9090/vtvcab2/video.m3u8?token=datviet
 http://tv.ttvmax.com:9090/vtvcab5/video.m3u8?token=datviet
 #EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
 http://tv.ttvmax.com:9090/vtvcab7/video.m3u8?token=datviet
+#EXTINF:0 tvg-name="CHI", CHI
+http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
+udp://@225.1.1.167:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png",Nhân Dân HD
+udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies HD
+udp://@225.1.2.238:30120
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
+udp://@225.1.2.232:30120
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/KaVSxXc.png",MOV HD - Hanoicab4
+udp://@225.1.1.206:30120
+
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
+udp://@225.1.2.224:30120
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png",FOX HD
+udp://@225.1.1.51:30120
+
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
 
