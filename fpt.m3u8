@@ -93,7 +93,7 @@ udp://@225.1.1.91:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies
 udp://@225.1.2.238:30120
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO
 udp://@225.1.2.232:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/KaVSxXc.png",MOV HD - Hanoicab4
 udp://@225.1.1.206:30120
