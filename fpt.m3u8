@@ -111,7 +111,7 @@ udp://@225.1.1.51:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png",KIX HD
 udp://@225.1.2.145:30120
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO (HD)
 udp://@225.1.2.86:30120
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD
@@ -133,7 +133,7 @@ udp://@225.1.2.236:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Baby TV HD
 udp://@225.1.2.146:30120
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network
 udp://@225.1.2.230:30120
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/Yvfpf3s.png",Disney Channel HD
