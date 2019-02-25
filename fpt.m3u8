@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-logo="http://datviettv.vn/administrator/Upload/images/ec92c224-0ca7-43d0-ad5b-8bc65584f370.png",VTV1 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/799px-Logo_VTV1_HD.png",VTV1 HD
 udp://@225.1.2.248:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png",VTV2 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png",VTV2 HD
 udp://@225.1.2.14:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://datviettv.vn/administrator/Upload/images/8798ec43-8b9e-4fc4-bb32-fbc713c5bd5c.png",VTV3 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png",VTV3 HD
 udp://@225.1.2.246:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png",VTV4 HD
@@ -17,10 +17,10 @@ udp://@225.1.1.129:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/kplGmyh.png",VTV6 HD
 udp://@225.1.2.244:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",VTV7 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VTV7Logo.png/640px-VTV7Logo.png",VTV7 HD
 udp://@225.1.2.96:30120
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",VTV8 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 HD
 udp://@225.1.2.142:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9 HD
