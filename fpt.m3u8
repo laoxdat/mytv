@@ -28,7 +28,7 @@ udp://@225.1.1.126:30120
 
 
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png",An Ninh TV HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png",ANTV
 udp://@225.1.2.169:30120
 
 
