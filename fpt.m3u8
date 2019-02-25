@@ -39,7 +39,7 @@ udp://@225.1.1.125:30120
 
 
 
-#EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 HD
+#EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2
 udp://@225.1.1.193:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png",HTV3
 udp://@225.1.1.178:30120
