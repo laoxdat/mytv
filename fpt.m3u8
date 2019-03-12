@@ -71,19 +71,19 @@ udp://@225.1.1.155:30120
 udp://@225.1.1.154:30120
 
 #EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="http://datviettv.vn/administrator/Upload/images/4af9d92b-7694-49e9-83f9-fc4fb5953720.png", VTVCab 3 - The Thao TV HD
-http://tv.ttvmax.com:9090/thethao/video.m3u8?token=datviet
+http://203.162.123.178:8080/thethao/index.m3u8
 #EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV" tvg-logo="http://datviettv.vn/administrator/Upload/images/2955aa9b-453e-4140-8dc2-eddc9a5615e6.png", VTVcab 16 - Bóng đá TV
-http://tv.ttvmax.com:9090/bongda/video.m3u8?token=datviet
+http://203.162.123.178:8080/bongda/index.m3u8
 #EXTINF:0 tvg-name="SCTV17" tvg-logo="http://datviettv.vn/administrator/Upload/images/7fe708ac-6f9b-494f-9d2a-d914c403e530.png", SCTV17
-http://tv.ttvmax.com:9090/sctv17/video.m3u8?token=datviet
+http://203.162.123.178:8080/sctv17/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 1 - Giai Tri" tvg-logo="http://datviettv.vn/administrator/Upload/images/7ba3c3eb-6e22-4f2a-8cc9-aba952e89651.jpg", VTVCab 1 - Giai Tri
-http://tv.ttvmax.com:9090/vtvcab1/video.m3u8?token=datviet
+http://203.162.123.178:8080/vtvcab1/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 2 - Phim Viet" tvg-logo="http://datviettv.vn/administrator/Upload/images/85febcfb-f50d-46a1-878c-2dc0d727d1b8.jpg", VTVCab 2 - Phim Viet
-http://tv.ttvmax.com:9090/vtvcab2/video.m3u8?token=datviet
+http://203.162.123.178:8080/vtvcab2/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 5 - E Channel" tvg-logo="http://datviettv.vn/administrator/Upload/images/7a6a45ba-8120-442c-aa26-dd774be03a8a.jpg", VTVCab 5 - E Channel
-http://tv.ttvmax.com:9090/vtvcab5/video.m3u8?token=datviet
+http://203.162.123.178:8080/vtvcab5/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
-http://tv.ttvmax.com:9090/vtvcab7/video.m3u8?token=datviet
+http://203.162.123.178:8080/vtvcab7/index.m3u8
 #EXTINF:0 tvg-name="CHI", CHI
 http://tv.ttvmax.com:9090/CHI/video.m3u8?token=datviet
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
