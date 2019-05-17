@@ -85,9 +85,9 @@ http://203.162.123.178:8080/vtvcab5/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
 http://203.162.123.178:8080/vtvcab7/index.m3u8
 #EXTINF:0 tvg-name="CHI", CHI
-https://video.babbleenglish.com.vn:8443/hls/chuchutv.mp4/index.m3u8
+http://video.babbleenglish.com.vn:888/hls/chuchutv.mp4/index.m3u8
 #EXTINF:0 tvg-name="CHI2", OC
-https://video.babbleenglish.com.vn:8443/hls/baby.mp4/index.m3u8
+http://video.babbleenglish.com.vn:888/hls/baby.mp4/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
 udp://@225.1.1.167:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png",Nhân Dân HD
