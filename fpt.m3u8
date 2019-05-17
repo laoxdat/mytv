@@ -84,9 +84,9 @@ http://203.162.123.178:8080/vtvcab2/index.m3u8
 http://203.162.123.178:8080/vtvcab5/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
 http://203.162.123.178:8080/vtvcab7/index.m3u8
-#EXTINF:0 tvg-name="CHI", CHI
+#EXTINF:-1 group-title="VTV", CHI
 http://video.babbleenglish.com.vn:888/hls/chuchutv.mp4/index.m3u8
-#EXTINF:0 tvg-name="CHI2", OC
+#EXTINF:-1 group-title="VTV", OC
 http://video.babbleenglish.com.vn:888/hls/baby.mp4/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg",Thông Tấn Xã Việt Nam
 udp://@225.1.1.167:30120
