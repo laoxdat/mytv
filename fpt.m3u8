@@ -3,13 +3,13 @@
 udp://@225.1.2.249:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png",VTV2 HD
-udp://@225.1.2.15:30120
+udp://@225.1.2.13:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png",VTV3 HD
 udp://@225.1.2.247:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png",VTV4 HD
-udp://@225.1.1.212:30120
+udp://@225.1.2.20:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",VTV5 HD
 udp://@225.1.1.130:30120
@@ -93,10 +93,10 @@ udp://@225.1.1.167:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png",Nhân Dân HD
 udp://@225.1.1.91:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg",Fox Movies
-udp://@225.1.2.238:30120
+udp://@225.1.2.239:30120
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO
-udp://@225.1.2.232:30120
+udp://@225.1.2.233:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/KaVSxXc.png",MOV HD - Hanoicab4
 udp://@225.1.1.206:30120
 
