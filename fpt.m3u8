@@ -69,7 +69,8 @@ udp://@225.1.1.120:30120
 udp://@225.1.1.155:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_145673002208.jpg",Vĩnh Long 2 HD
 udp://@225.1.1.154:30120
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1SFC75J.png" group-title="VTV",QPVN HD
+udp://@225.1.2.216:30120
 #EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="http://datviettv.vn/administrator/Upload/images/4af9d92b-7694-49e9-83f9-fc4fb5953720.png", VTVCab 3 - The Thao TV HD
 http://203.162.123.178:8080/thethao/index.m3u8
 #EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV" tvg-logo="http://datviettv.vn/administrator/Upload/images/2955aa9b-453e-4140-8dc2-eddc9a5615e6.png", VTVcab 16 - Bóng đá TV
