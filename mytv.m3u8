@@ -2,6 +2,8 @@
 
 #EXTINF:1 group-title="VTV",VTV1
 http://113.190.253.84:4022/udp/232.84.1.27:8136
+#EXTINF:1 group-title="VTV",VTV1
+http://113.190.253.84:4022/udp/232.84.1.27:8136
 #EXTINF:6 group-title="VTV",VTV1HD
 http://113.190.253.84:4022/udp/232.84.1.117:10254
 #EXTINF:2 group-title="VTV",VTV2
@@ -66,7 +68,7 @@ http://113.190.253.84:4022/udp/232.84.1.220:9294
 http://113.190.253.84:4022/udp/232.84.1.205:9204
 #EXTINF:117 group-title="VTV",VTVcab8
 http://113.190.253.84:4022/udp/232.84.1.206:9210
-#EXTINF:225 group-title="VTV",BabyTV HD 
+#EXTINF:225 group-title="VTV",BabyTV HD
 http://113.190.253.84:4022/udp/232.84.2.36:10624
 #EXTINF:111 group-title="VTV",O2TV
 http://113.190.253.84:4022/udp/232.84.1.26:8130
@@ -139,7 +141,7 @@ http://113.190.253.84:4022/udp/232.84.1.170:8994
 
 #EXTINF:37 group-title="VTC",VTC1
 http://113.190.253.84:4022/udp/232.84.1.30:8154
-#EXTINF:17 group-title="VTC",VTC1 HD 
+#EXTINF:17 group-title="VTC",VTC1 HD
 http://113.190.253.84:4022/udp/232.84.1.71:8400
 #EXTINF:56 group-title="VTC",VTC2
 http://113.190.253.84:4022/udp/232.84.1.57:8322
@@ -361,7 +363,7 @@ http://113.190.253.84:4022/udp/232.84.2.140:10660
 http://113.190.253.84:4022/udp/232.84.1.19:8088
 #EXTINF:235 group-title="QUOCTE",HBO HD
 http://113.190.253.84:4022/udp/232.84.2.138:10648
-#EXTINF:85 group-title="QUOCTE",Screen Red 
+#EXTINF:85 group-title="QUOCTE",Screen Red
 http://113.190.253.84:4022/udp/232.84.1.44:8244
 #EXTINF:84 group-title="QUOCTE",ScreenRed HD
 http://113.190.253.84:4022/udp/232.84.1.9:8028
@@ -371,7 +373,7 @@ http://113.190.253.84:4022/udp/232.84.1.109:10230
 http://113.190.253.84:4022/udp/232.84.2.130:9576
 #EXTINF:82 group-title="QUOCTE",FOX Life HD
 http://113.190.253.84:4022/udp/232.84.1.78:8442
-#EXTINF:197 group-title="QUOCTE",Warner 
+#EXTINF:197 group-title="QUOCTE",Warner
 http://113.190.253.84:4022/udp/232.84.2.50:10510
 #EXTINF:195 group-title="QUOCTE",Warner HD
 http://113.190.253.84:4022/udp/232.84.2.51:10516
