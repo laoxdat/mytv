@@ -13,7 +13,7 @@ http://123.30.146.182:8080/vtv9/video.m3u8?token=DSZ8YofrK0
 http://123.30.146.182:8080/vtc1/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTC" tvg-name="VTC3 HD" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg", VTC3 HD
 http://123.30.146.182:8080/vtc3/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="VTC" tvg-name="VTC7" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg", Today TV - VTC7
+#EXTINF:-1 group-title="VTC" tvg-name="VTC7" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg", Today TV
 http://123.30.146.182:8080/vtc7/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png", ANTV
 http://123.30.146.182:8080/antv/video.m3u8?token=DSZ8YofrK0
