@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/799px-Logo_VTV1_HD.png", VTV1 HD
+#EXTINF:-1 group-title="VTV" tvg-name="VTV1 HD" tvg-id="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/799px-Logo_VTV1_HD.png", VTV1 HD
 http://123.30.146.182:8080/vtv1/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="VTV" tvg-name="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png", VTV3 HD
+#EXTINF:-1 group-title="VTV" tvg-name="VTV3 HD" tvg-id="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png", VTV3 HD
 http://123.30.146.182:8080/vtv3/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png", VTV4 HD
 http://123.30.146.182:8080/vtv4/video.m3u8?token=DSZ8YofrK0
