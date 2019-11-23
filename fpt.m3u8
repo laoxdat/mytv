@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/799px-Logo_VTV1_HD.png",VTV1 HD
+#EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/vtv1/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="VTV" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png",VTV1 HD
 udp://@225.1.2.249:30120
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png",VTV2 HD
