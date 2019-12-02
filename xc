@@ -63,6 +63,12 @@ http://123.30.146.182:8080/axn/video.m3u8?token=DSZ8YofrK0
 http://123.30.146.182:8080/foxlife/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/1574759013295cn.png", CARTOON NETWORK
 http://123.30.146.182:8080/cartoon/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/foxsport.png", FOX SPORT
+http://123.30.146.182:8080/foxsport/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/foxsport2.png", FOX SPORT2
+http://123.30.146.182:8080/foxsport2/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/foxsport3.png", FOX SPORT3
+http://123.30.146.182:8080/foxsport3/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg", Thông Tấn Xã Việt Nam
 http://123.30.146.182:8080/ttxvn/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png", Nhân Dân HD
