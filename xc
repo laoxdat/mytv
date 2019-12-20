@@ -73,5 +73,12 @@ http://123.30.146.182:8080/foxsport3/video.m3u8?token=DSZ8YofrK0
 http://123.30.146.182:8080/ttxvn/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png", Nhân Dân HD
 http://123.30.146.182:8080/thnd/video.m3u8?token=DSZ8YofrK0
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png", KPM
 http://203.162.235.45:29004/livehtt/TSPHD4/ticket
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kplus.png", KPLUS
+http://203.162.123.178:8080/kplus/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kpm.png", KPM
+http://203.162.123.178:8080/kpm/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kns.png", KNS
+http://203.162.123.178:8080/kns/index.m3u8
