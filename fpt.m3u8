@@ -85,6 +85,14 @@ http://203.162.123.178:8080/vtvcab2/index.m3u8
 http://203.162.123.178:8080/vtvcab5/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 7 - D Drama" tvg-logo="http://datviettv.vn/administrator/Upload/images/380c9c5b-6228-453a-8432-7eb5e0d839a9.jpg", VTVCab 7 - D Drama
 http://203.162.123.178:8080/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png", KPM
+http://203.162.235.45:29004/livehtt/TSPHD4/ticket
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kplus.png", KPLUS
+http://203.162.123.178:8080/kplus/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kpm.png", KPM
+http://203.162.123.178:8080/kpm/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kns.png", KNS
+http://203.162.123.178:8080/kns/index.m3u8
 #EXTINF:-1 group-title="VTV", CHI
 http://video.babbleenglish.com.vn:888/hls/chuchutv.mp4/index.m3u8
 #EXTINF:-1 group-title="VTV", OC
