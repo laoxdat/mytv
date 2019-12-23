@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/vtv1/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="VTV" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png",VTV1 HD
 http://123.30.146.182:8080/vtv1/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="VTV" tvg-name="VTV3 HD" tvg-id="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png", VTV3 HD
+#EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/vtv3/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="VTV" tvg-name="VTV3 HD" tvg-id="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png", VTV3 HD
 http://123.30.146.182:8080/vtv3/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png", VTV4 HD
+#EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/vtv4/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png", VTV4 HD
 http://123.30.146.182:8080/vtv4/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="VTV" tvg-name="VTV6 HD" tvg-logo="http://i.imgur.com/kplGmyh.png", VTV6 HD
+#EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/vtv6/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="VTV" tvg-name="VTV6 HD" tvg-logo="http://i.imgur.com/kplGmyh.png", VTV6 HD
 http://123.30.146.182:8080/vtv6/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png", VTV9 HD
 http://123.30.146.182:8080/vtv9/video.m3u8?token=DSZ8YofrK0
@@ -17,7 +17,7 @@ http://123.30.146.182:8080/vtc3/video.m3u8?token=DSZ8YofrK0
 http://123.30.146.182:8080/vtc7/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png", ANTV
 http://123.30.146.182:8080/antv/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Địa phương" tvg-name="THVL1" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg", Vĩnh Long 1 HD
+#EXTINF:-1 catchup="fs" catchup-source="http://123.30.146.182:8080/thvl1/timeshift_abs-${start}.m3u8?token=DSZ8YofrK0" catchup-days=3,group-title="Địa phương" tvg-name="THVL1" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg", Vĩnh Long 1 HD
 http://123.30.146.182:8080/thvl1/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="HTV" tvg-name="HTV7" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png", HTV7 HD
 http://123.30.146.182:8080/htv7/video.m3u8?token=DSZ8YofrK0
