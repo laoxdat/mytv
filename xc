@@ -48,7 +48,7 @@ http://123.30.146.182:8080/sctv17/video.m3u8?token=DSZ8YofrK0
 #EXTINF:0 tvg-name="thethao", thethao
 http://123.30.146.182:8080/thethao/video.m3u8?token=DSZ8YofrK0
 #EXTINF:0 tvg-name="bongda", bongda
-http://203.162.123.178:8080/bd/video.m3u8?token=DSZ8YofrK0
+http://123.30.146.182:8080/bd/video.m3u8?token=DSZ8YofrK0
 #EXTINF:0 tvg-name="sctvpth", sctvpth
 http://123.30.146.182:8080/sctvpth/video.m3u8?token=DSZ8YofrK0
 #EXTINF:0 tvg-name="sctv1", sctv1
@@ -58,7 +58,7 @@ http://123.30.146.182:8080/foxmovie/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/hbo.png", HBO
 http://123.30.146.182:8080/hbo/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/1575279644259axnm.png", AXN
-http://123.30.146.182:8080/axn/video.m3u8?token=DSZ8YofrK0
+http://123.30.146.182:8080/axn_e/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/1574747963207foxlife.png", FOXLIFE
 http://123.30.146.182:8080/foxlife/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="http://mago.tv1asia.com/files/channels/1574759013295cn.png", CARTOON NETWORK
