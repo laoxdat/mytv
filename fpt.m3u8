@@ -29,7 +29,7 @@ udp://@225.1.1.127:30120
 
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png",ANTV
-udp://@225.1.2.169:30120
+http://203.162.123.178/cliptv_min.php?url=https://cliptv.vn/truyen-hinh/antv
 
 
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Hà Nội 1 HD
