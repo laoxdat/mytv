@@ -74,7 +74,7 @@ udp://@225.1.2.216:30120
 #EXTINF:0 tvg-name="VTVCab 3 - The Thao TV HD" tvg-logo="http://datviettv.vn/administrator/Upload/images/4af9d92b-7694-49e9-83f9-fc4fb5953720.png", VTVCab 3 - The Thao TV HD
 http://203.162.123.178:8080/thethao/index.m3u8
 #EXTINF:0 tvg-name="VTVcab 16 - Bóng đá TV" tvg-logo="http://datviettv.vn/administrator/Upload/images/2955aa9b-453e-4140-8dc2-eddc9a5615e6.png", VTVcab 16 - Bóng đá TV
-http://51.75.147.80:8080/bd/index.m3u8
+http://123.30.146.182/mytvhash.php?channel_id=208&mf_code=vstv265
 #EXTINF:0 tvg-name="SCTV17" tvg-logo="http://datviettv.vn/administrator/Upload/images/7fe708ac-6f9b-494f-9d2a-d914c403e530.png", SCTV17
 http://203.162.123.178:8080/sctv17/index.m3u8
 #EXTINF:0 tvg-name="VTVCab 1 - Giai Tri" tvg-logo="http://datviettv.vn/administrator/Upload/images/7ba3c3eb-6e22-4f2a-8cc9-aba952e89651.jpg", VTVCab 1 - Giai Tri
