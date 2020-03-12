@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://i.imgur.com/m8WU8BL.png" group-title="VTV",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="VTV2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png" group-title="VTV",VTV2 HD
+#EXTINF:-1 tvg-id="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png" group-title="VTV",VTV2 HD
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="VTV3 HD" tvg-logo="http://i.imgur.com/OwtIFz1.png" group-title="VTV",VTV3 HD
+#EXTINF:-1 tvg-id="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png" group-title="VTV",VTV3 HD
 udp://@225.1.2.246:30120
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://i.imgur.com/QwsdDjH.png" group-title="VTV",VTV4 HD
 udp://@225.1.2.20:30120
