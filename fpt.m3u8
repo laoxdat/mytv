@@ -22,6 +22,11 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="Vinh Long 1" tvg-logo="http://vuapp.tranvu.info/upload//thvl1.png" group-title="DIA PHUONG",VINH LONG 1 HD
 udp://@225.1.1.155:30120
+
+#EXTINF:-1 tvg-id="VTC1 HD" tvg-logo="http://i.imgur.com/HC5iUuK.png" group-title="VTC",VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="VTC7" tvg-logo="http://i.imgur.com/ZfjtPa2.png" group-title="VTC",VTC7
+udp://@225.1.2.197:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1SFC75J.png" group-title="VTV",QPVN HD
 udp://@225.1.2.216:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png" group-title="VTV",Quốc Hội HD
@@ -83,8 +88,6 @@ udp://@225.1.1.166:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://s14.postimg.org/nm0o00v41/htvcshop.png" group-title="HTV",HTVC SHOPPING
 udp://@225.1.1.172:30120
 
-#EXTINF:-1 tvg-id="VTC1 HD" tvg-logo="http://i.imgur.com/HC5iUuK.png" group-title="VTC",VTC1 HD
-udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-id="VTC2" tvg-logo="http://i.imgur.com/2MwvQXo.png" group-title="VTC",VTC2
 udp://@225.1.2.202:30120
 
@@ -96,8 +99,7 @@ udp://@225.1.2.200:30120
 udp://@225.1.2.199:30120
 #EXTINF:-1 tvg-id="VTC6" tvg-logo="http://i.imgur.com/xXeBAok.png" group-title="VTC",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="VTC7" tvg-logo="http://i.imgur.com/ZfjtPa2.png" group-title="VTC",VTC7
-udp://@225.1.2.197:30120
+
 #EXTINF:-1 tvg-id="VTC8" tvg-logo="http://i.imgur.com/uPxgmeN.png" group-title="VTC",VTC8
 udp://@225.1.2.196:30120
 #EXTINF:-1 tvg-id="VTC9" tvg-logo="http://i.imgur.com/5SoblfV.png" group-title="VTC",VTC9
