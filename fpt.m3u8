@@ -4,7 +4,7 @@ udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png" group-title="VTV",VTV2 HD
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png" group-title="VTV",VTV3 HD
-udp://@225.1.2.246:30120
+udp://@225.1.2.247:30120
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://i.imgur.com/QwsdDjH.png" group-title="VTV",VTV4 HD
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="VTV5" tvg-logo="http://i.imgur.com/bdKkIw2.png" group-title="VTV",VTV5 HD
