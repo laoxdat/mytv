@@ -32,6 +32,22 @@ udp://@225.1.2.216:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png" group-title="VTV",Quốc Hội HD
 udp://@225.1.2.148:30120
 
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/mytvhash.php?channel_id=208&mf_code=vstv265
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/mytvhash.php?channel_id=204&mf_code=vstv305
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/mytvhash.php?channel_id=198&mf_code=vstv303
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/mytvhash.php?channel_id=197&mf_code=vstv310
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/mytvhash.php?channel_id=415&mf_code=vstv485
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/bin/channel.php?binid=3&channelid=8gdgZobpaJJS51R53PAc2jRGyBrD8A1iQhy2xLmuk24phPFE6F&server=51.75.144.32:280
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/bin/channel.php?binid=2&channelid=72JHJTLTCdSWjWxxW6AJMTQ9PKwY6D9sjMF2XsGi9RLb6wHyrA&server=51.75.144.32:280
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
+http://123.30.146.182/bin/channel.php?binid=1&channelid=8SXnztoWrkCyjh7JBGMTufZz3Gx5kzyESS3CD2Zn96NxKvSkEF&server=51.75.144.32:280
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png" group-title="VTV",NHÂN DÂN HD
 udp://@225.1.1.91:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/vietnamnet.png" group-title="VTV",VIETNAMNET
