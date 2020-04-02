@@ -42,12 +42,18 @@ http://123.30.146.182/mytvhash.php?channel_id=198&mf_code=vstv303
 http://123.30.146.182/mytvhash.php?channel_id=197&mf_code=vstv310
 #EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
 http://123.30.146.182/mytvhash.php?channel_id=415&mf_code=vstv485
-#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
-http://123.30.146.182/bin/channel.php?binid=3&channelid=8gdgZobpaJJS51R53PAc2jRGyBrD8A1iQhy2xLmuk24phPFE6F&server=51.75.144.32:280
-#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
-http://123.30.146.182/bin/channel.php?binid=2&channelid=72JHJTLTCdSWjWxxW6AJMTQ9PKwY6D9sjMF2XsGi9RLb6wHyrA&server=51.75.144.32:280
-#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="http://kotv.nihontv.net/files/channels/1564899063945vtv1m.png" group-title="VTV",VTV1 HD
-http://123.30.146.182/bin/channel.php?binid=1&channelid=8SXnztoWrkCyjh7JBGMTufZz3Gx5kzyESS3CD2Zn96NxKvSkEF&server=51.75.144.32:280
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png", KPM
+http://203.162.235.45:29004/livehtt/TSPHD4/ticket
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kplus.png", KPLUS
+http://123.30.212.77:9090/kplus/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kpm.png", KPM
+http://123.30.212.77:9090/kpm/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="http://gm.tv1asia.com/files/channels/kns.png", KNS
+http://123.30.212.77:9090/kns/index.m3u8
+#EXTINF:-1 group-title="VTV", CHI
+http://video.babbleenglish.com.vn:888/hls/chuchutv.mp4/index.m3u8
+#EXTINF:-1 group-title="VTV", OC
+http://video.babbleenglish.com.vn:888/hls/baby.mp4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png" group-title="VTV",NHÂN DÂN HD
 udp://@225.1.1.91:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/vietnamnet.png" group-title="VTV",VIETNAMNET
